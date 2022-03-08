@@ -17,15 +17,14 @@ Personally, I am a big geek with huge love for Star Wars, Marvel and DC comic bo
 ## 🔭 I’m currently working on: 
 
 - :guardsman: ​Implementing compliance and security protocols at my current job, using the DevSecOps (#OWASP) principles, using such tools as self-hosted azure dev ops dependobot, static code and security analysis on 13 commercial projects. 
-- :space_invader: Gatsby theme and new personal website for https://spaceout.pl  
+- :space_invader: Rust cli app for batch image optimizing 
 
 
 
 ## 🌱 I’m currently learning: 
 
-- :star: ​Getting to know better the Svelte.js and SvelteKit frameworks, by doing silly projects like [Svelte Chess Timer](https://github.com/MassivDash/Svelte-Chess-Timer)  and [Svelte Solar System](https://github.com/MassivDash/svelte-solar-system)
-
-- :anchor: ​Docker mastery 
+- :star: Rust lang
+- :anchor: ​azure portal and azure dev ops mastery 
 - :rocket: ​Advanced YAML azure dev ops templates and pipelines methods 
 - :boom: ​Node.js clusters and distributed systems 
 
@@ -39,18 +38,3 @@ Personally, I am a big geek with huge love for Star Wars, Marvel and DC comic bo
 - twitter: @spaceoutpl
 
 
-
-<!--
-**MassivDash/MassivDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
