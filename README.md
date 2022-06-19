@@ -1,3 +1,8 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash&show_icons=true&theme=dark&private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # Hi there 👋
 
 My name is **Luke** and I am full stack developer.
@@ -28,8 +33,6 @@ Personally, I am a big geek with huge love for Star Wars, Marvel and DC comic bo
 - :rocket: ​Advanced YAML azure dev ops templates and pipelines methods 
 - :boom: ​Node.js clusters and distributed systems 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 How to reach me:
