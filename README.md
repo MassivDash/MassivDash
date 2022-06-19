@@ -1,7 +1,6 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash&show_icons=true&theme=dark&private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassivDash&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash&show_icons=true&theme=dark&private=true)](https://github.com/MassivDash)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassivDash&layout=compact&theme=dark)]
 
 # Hi there 👋
 
