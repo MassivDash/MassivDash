@@ -29,6 +29,8 @@ Personally, I am a big geek with huge love for Star Wars, Marvel and DC comic bo
 - :boom: ​Node.js clusters and distributed systems 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 How to reach me:
 
