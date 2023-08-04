@@ -20,7 +20,7 @@ On a personal note, I am a huge fan of Star Wars, Marvel and DC comic books, Fun
 ## 🔭 I’m currently working on: 
 
 - :guardsman: ​Implementing compliance and security protocols at my current job, using the DevSecOps (#OWASP) principles, using such tools as self-hosted azure dev ops dependobot, static code and security analysis on 13 commercial projects. 
-- :space_invader: S3 Manager an aws S3 GUI standalone application based on the Tauri app written in Rust and Sveltev framework. 
+- :space_invader: [S3 Manager](https://github.com/MassivDash/S3_Manager) an aws S3 GUI standalone application based on the Tauri app written in Rust and Svelte framework. 
 
 
 ## 🌱 I’m currently learning: 
