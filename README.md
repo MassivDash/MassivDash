@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-Hello, I am Luke, a full stack developer with extensive experience in design and web/app development.
+Hello, I am Luke, a engineering manager, architect and full stack developer with extensive experience in design and web/app development.
 
 I started building websites in highschool (2004) and since then I have been honing my skills in UX, UI, and various programming languages and frameworks.
 
