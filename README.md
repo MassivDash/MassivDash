@@ -1,8 +1,3 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MassivDash&show_icons=true&theme=dark&private=true)](https://github.com/MassivDash)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassivDash&layout=compact&theme=dark)
-
 # Hi there 👋
 
 Hello, I am Luke, a engineering manager, architect and full stack developer with extensive experience in design and web/app development.
@@ -19,16 +14,14 @@ On a personal note, I am a huge fan of Star Wars, Marvel and DC comic books, Fun
 
 ## 🔭 I’m currently working on: 
 
-- :guardsman: ​Implementing compliance and security protocols at my current job, using the DevSecOps (#OWASP) principles, using such tools as self-hosted azure dev ops dependobot, static code and security analysis on 13 commercial projects. 
-- :space_invader: [S3 Manager](https://github.com/MassivDash/S3_Manager) an aws S3 GUI standalone application based on the Tauri app written in Rust and Svelte framework. 
+- 🤖 Agents using lang chain, and self written ones in rust, creation of MCP servers and more AI intergartions this year.
+- Rust 🦀 🦀 🦀 🦀 🦀 making my own tools and helpers for ai space  -> https://github.com/MassivDash/ai_tools
 
 
 ## 🌱 I’m currently learning: 
 
-- :star: Rust lang
-- :robot: AIs (LLMs, GPT, LLAMA) ​
-- :rocket: Astro framework  
-- :boom: ​Node.js clusters and distributed systems 
+- :star: Rust lang (its gonna be 4+ years now, lol)
+- :robot: AIs (LLMs, GPT, LLAMA) check out my hugging face profile -> https://huggingface.co/MassivDash​
 
 
 ## 📫 How to reach me:
@@ -37,5 +30,6 @@ On a personal note, I am a huge fan of Star Wars, Marvel and DC comic books, Fun
 - blog: https://blogspaceout.pl
 - email: [luke@spaceout.pl](mailto:luke@spaceout.pl)
 - twitter: @spaceoutpl
+- bluesky: @lukecelitan.bsky.social
 
 
