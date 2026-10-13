@@ -8,7 +8,7 @@ I have worked on numerous projects as a systems architect and UI/UX consultant, 
 
 If you are looking for a high quality custom product that is not based on themes or standard solutions, please contact me for more information at luke@spaceout.pl
 
-You can also check out my personal site in English spaceout.pl or my Polish blog about development and other adventures in my professional life. https://blog.spaceout.pl
+You can also check out my personal site in English spaceout.pl or my Polish blog about development and other adventures in my professional life. https://spaceout.pl
 
 On a personal note, I am a huge fan of Star Wars, Marvel and DC comic books, Funk and 80s music. I get most of my design inspiration from offline experiences like visiting art museums, galleries and collaborating with other creative people on various projects. I also work with various activists and NGO groups as a pro-bono designer and developer.
 
